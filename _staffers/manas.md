@@ -1,8 +1,8 @@
 ---
-name: Kevin Lin
+name: Manas Gaur
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
+email: manas@umbc.edu
+website: https://cs.umbc.edu/manas
 photo: kevin.jpg
 ---
 

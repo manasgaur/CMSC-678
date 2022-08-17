@@ -18,16 +18,76 @@ description: >-
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+This course in machine learning will provide an extensive grounding in mathematical models used to make predictions and classification. We will be covering a wide-variety of computational techniques involved in machine learning,  broadly classified as, unsupervised learning, semi-supervised learning, supervised learning, and representation learning. Throughout the course, we will discussing real-world applications of machine learning and will be prototyping models on both real-world datasets and benchmark datasets. At the near end of the course, I will provide a preface into deep learning, in particular autoencoders, which are a class of models useful in developing and testing novel deep learning models for learning semantic representations.
 
-## Lecture
+This class will have:
+* Presentation Sessions (in groups)
+* Coding Assignments (every week)
+* Final Project
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
 
-## Resources
+## Course Evaluation
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+The course consists of four gradable components:
+* Presentation Sessions (__in groups__) (**10%**) : In each of these session, a group will prepare a presentation on a research topic of their choice or provided by me and will have 30 mins to present in the class. The research papers should be from top-tier conferences provided [HERE](https://research.com/conference-rankings/computer-science).
+* Coding Assignments (__every week__) (**20%**) : At the end of a week, there will be a coding assignment provided at the end of the class which each student has to complete and return in 10 days time. The coding assignments will be completely based on the ongoing topic or on a topic previously completed.
+* Mid-term (**30%**) : After 4 weeks of the course, there will be a mid-term which will include theory, case-based scenarios, and pseudocodes.
+* Final Project (__in groups__) (**40%**) : By the end of the first two weeks of the class, I would require, a tentative project title and the name of the members of a team, for the final project. Amidst the class, I would schedule one-on-one session and class presentation to keep the project on track. 
+    * Please fill out this [google spreadsheet](https://docs.google.com/spreadsheets/d/17Wv_hqMpghsEjdN6DaV2cs5DhWvQc7g0pIOTmz7Hcvk/edit?usp=sharing) with details on the final project
 
-## Assignments
+## Bonus Grades
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+The bonus grades will be awarded based on the final project's competency to be submitted to a machine learning, data science, or natural language processing conference. To decide on the bonus grades, I would lay emphasis on:
+* Motivation and Problem Formulation
+* Literature Review
+* Experiment and Dataset Design
+* Results and Discussion
+* Conclusion (What have been achieved, Limitations, and Future Work)  
+
+## Grading Scale
+
+To be decided
+
+## Late Policy
+
+* Each late day extends the deadline by 24 hours, giving the student a total of six late days to use when submitting homework.
+* The late days may be used in any way without limitations (e.g., all 6 could be used on one homework).
+* Your grade won't be influenced if you use late days.
+* However, late work that is turned in after all permitted grace periods have expired will not be graded.
+
+* Although attendance won't be recorded, it is your responsibility to stay informed about every class.
+* The instructor will make an effort to provide announcements, slides, and notes online, but there are no guarantees.
+* Therefore, be sure to check in with someone who attended class if you are unable to. 
+
+## How to Submit work 
+
+To be decided
+
+## Academic Honesty
+
+I take academic honesty seriously. Any sort of activity which relate the cheating, plagiarism, fabrication (e.g. use Adobe tools), or copy-paste will be not be tolerated. If caught for the first time would lead to an **F** grade on the assignment. If the same activity is performed next, would result in an **F** grade in the course and a disciplinary action will be taken which may lead to suspension or dismissal. 
+
+Please do visit the academic honesty policy available in the [Academic Integrity at UMBC](https://academicconduct.umbc.edu/). 
+
+Especially for computer science classes, there are generally questions about what is and is not allowed.
+You are encouraged to discuss the subject matter and assignments with others. The Piazza discussion board
+provides a great forum for this. However, you may not write or complete assignments for another student;
+allow another student to write or complete your assignments; pair program; copy someone else’s work; or
+allow your work to be copied. This list is not inclusive.
+
+## Students with Accomodations
+The office of [Student Disability Services](https://sds.umbc.edu) (SDS) works to ensure that students can access and take advantage of UMBC’s educational environment, regardless of disability. From the SDS,
+<center>UMBC is committed to eliminating discriminatory obstacles that may disadvantage students
+based on disability. Services for students with disabilities are provided for all students qualified
+under the Americans with Disabilities Act (ADA) of 1990, the ADAAA of 2009, and Section
+504 of the Rehabilitation Act who request and are eligible for accommodations. The Office of
+Student Disability Services (SDS) is the UMBC department designated to coordinate accommo-
+dations that would allow students to have equal access and inclusion in all courses, programs,
+and activities at the University.
+If you have a documented disability and need to request academic accommodations, please refer
+to the SDS website at ```sds.umbc.edu``` for registration information and to begin the process,
+or alternatively you may visit the SDS office in the Math/Psychology Building, Room 212.
+For questions or concerns, you may contact us through email at ```disAbility@umbc.edu``` or
+phone (410) 455-2459.
+If you require accommodations for this class, make an appointment to meet with me to discuss
+your SDS-approved accommodations. </center>
