@@ -20,11 +20,20 @@ description: >-
 
 This course in machine learning will provide an extensive grounding in mathematical models used to make predictions and classification. We will be covering a wide-variety of computational techniques involved in machine learning,  broadly classified as, unsupervised learning, semi-supervised learning, supervised learning, and representation learning. Throughout the course, we will discussing real-world applications of machine learning and will be prototyping models on both real-world datasets and benchmark datasets. At the near end of the course, I will provide a preface into deep learning, in particular autoencoders, which are a class of models useful in developing and testing novel deep learning models for learning semantic representations.
 
-This class will have:
-* Presentation Sessions (in groups)
-* Coding Assignments (every week)
-* Final Project
+We will move from this jungle 
 
+![ML Jungle, Credit Dr. Mostafa @ Caltech][/assets/images/ML_jungle.png]
+
+to a ML map
+
+![ML Map, Credit Dr. Mostafa @ Caltech][/assets/images/ML_Map.png]
+
+### Books Referred for the Course
+* [Fundamentals in Machine Learning](https://cseweb.ucsd.edu/~dasgupta/courses.html)
+* [Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
+* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+* [Machine Learning Topics](https://home.work.caltech.edu/library/index.html)
+* [Machine learning Yearning](https://nessie.ilab.sztaki.hu/~kornai/2020/AdvancedMachineLearning/Ng_MachineLearningYearning.pdf)
 
 ## Course Evaluation
 
@@ -77,7 +86,9 @@ allow your work to be copied. This list is not inclusive.
 
 ## Students with Accomodations
 The office of [Student Disability Services](https://sds.umbc.edu) (SDS) works to ensure that students can access and take advantage of UMBC’s educational environment, regardless of disability. From the SDS,
-<center>UMBC is committed to eliminating discriminatory obstacles that may disadvantage students
+
+
+UMBC is committed to eliminating discriminatory obstacles that may disadvantage students
 based on disability. Services for students with disabilities are provided for all students qualified
 under the Americans with Disabilities Act (ADA) of 1990, the ADAAA of 2009, and Section
 504 of the Rehabilitation Act who request and are eligible for accommodations. The Office of
@@ -85,9 +96,7 @@ Student Disability Services (SDS) is the UMBC department designated to coordinat
 dations that would allow students to have equal access and inclusion in all courses, programs,
 and activities at the University.
 If you have a documented disability and need to request academic accommodations, please refer
-to the SDS website at ```sds.umbc.edu``` for registration information and to begin the process,
+to the [SDS website](sds.umbc.edu) for registration information and to begin the process,
 or alternatively you may visit the SDS office in the Math/Psychology Building, Room 212.
-For questions or concerns, you may contact us through email at ```disAbility@umbc.edu``` or
-phone (410) 455-2459.
-If you require accommodations for this class, make an appointment to meet with me to discuss
-your SDS-approved accommodations. </center>
+For questions or concerns, you may contact us through [email](disAbility@umbc.edu) or
+phone (410) 455-2459. If you require accommodations for this class, make an appointment to meet with me to discuss your SDS-approved accommodations. 
