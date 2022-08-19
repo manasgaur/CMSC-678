@@ -30,8 +30,8 @@ permalink: pretty
 aux_links:
   Manas Gaur:
     - 'https://manasgaur.github.io'
-  Just the Class on GitHub:
-    - 'https://manasgaur.github.io/CMSC-678'
+  #Just the Class on GitHub:
+    #- 'https://manasgaur.github.io/CMSC-678'
 footer_content:
 
 # Collections for website data
