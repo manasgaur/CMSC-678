@@ -22,11 +22,11 @@ This course in machine learning will provide an extensive grounding in mathemati
 
 We will move from this jungle 
 
-![ML Jungle, Credit Dr. Mostafa @ Caltech][/assets/images/ML_jungle.png]
+![ML Jungle, Credit Dr. Mostafa @ Caltech](/assets/images/ML_jungle.png)
 
 to a ML map
 
-![ML Map, Credit Dr. Mostafa @ Caltech][/assets/images/ML_Map.png]
+![ML Map, Credit Dr. Mostafa @ Caltech](/assets/images/ML_Map.png)
 
 ### Books Referred for the Course
 * [Fundamentals in Machine Learning](https://cseweb.ucsd.edu/~dasgupta/courses.html)
