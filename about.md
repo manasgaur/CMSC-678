@@ -22,11 +22,15 @@ This course in machine learning will provide an extensive grounding in mathemati
 
 We will move from this jungle 
 
-![ML Jungle, Credit Dr. Mostafa @ Caltech](/assets/images/ML_jungle.png)
+![ML Jungle](/assets/images/ML_jungle.png)
 
 to a ML map
 
-![ML Map, Credit Dr. Mostafa @ Caltech](/assets/images/ML_Map.png)
+![ML Map](/assets/images/ML_Map.png)
+
+_Picture Credit Dr. Mostafa @ Caltech_
+
+## Broad Topics: (To-Be-Mentioned)
 
 ### Books Referred for the Course
 * [Fundamentals in Machine Learning](https://cseweb.ucsd.edu/~dasgupta/courses.html)
@@ -100,3 +104,6 @@ to the [SDS website](sds.umbc.edu) for registration information and to begin the
 or alternatively you may visit the SDS office in the Math/Psychology Building, Room 212.
 For questions or concerns, you may contact us through [email](disAbility@umbc.edu) or
 phone (410) 455-2459. If you require accommodations for this class, make an appointment to meet with me to discuss your SDS-approved accommodations. 
+
+## UMBC policy for COVID-19
+While facemasks are recommended in many areas of the campus, they are still mandatory for laboratory and [classroom contexts](https://covid19.umbc.edu/latest-campus-communications/post/126794/).  If students are having difficulties hearing and understanding a masked individual, instructors can submit an [RT ticket](https://doit.umbc.edu/request-av-services/) with DOIT to discuss microphone and other AV options. We remind you to be respectful of one’s decision to mask or not outside of classroom contexts.
