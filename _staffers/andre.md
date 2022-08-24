@@ -1,7 +1,7 @@
 ---
-name: Really Evil Kevin
+name: Andre Nguyen
 role: Teaching Assistant
-email: me@example.com
+email: tv28617@umbc.edu
 website: https://kevinl.info
 photo: kevin.jpg
 ---

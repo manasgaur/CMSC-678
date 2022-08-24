@@ -57,6 +57,12 @@ The bonus grades will be awarded based on the final project's competency to be s
 * Results and Discussion
 * Conclusion (What have been achieved, Limitations, and Future Work)  
 
+Please choose one of the following templates to submit the final project report: 
+* NeurIPS Template: https://www.overleaf.com/latex/templates/neurips-2022/kxymzbjpwsqx
+* ACM Official Template: https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc
+
+I suggest every student in the class to use LaTeX to typeset their final project report. Deadline to turn in your Project Report is TO-BE-DECIDED. 
+
 ## Grading Scale
 
 To be decided
@@ -75,6 +81,7 @@ To be decided
 ## How to Submit work 
 
 To be decided
+
 
 ## Academic Honesty
 

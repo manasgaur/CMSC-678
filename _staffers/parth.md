@@ -1,7 +1,7 @@
 ---
-name: Evil Kevin
+name: Parth Panse
 role: Teaching Assistant
-email: me@example.com
+email: lc69419@umbc.edu
 website: https://kevinl.info
 photo: kevin.jpg
 ---
