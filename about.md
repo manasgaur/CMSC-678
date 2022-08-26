@@ -30,9 +30,9 @@ to a ML map
 
 _Picture Credit Dr. Mostafa @ Caltech_
 
-## Broad Topics: (To-Be-Mentioned)
+## Broad Topics:
 
-Machine Learning, Learning Problem, Generative Modeling, Linear Regression and Probability Estimation, Optimization and Geometry, Support Vector Machine and Kernel Methods, Trees and Forest, Representation Learning (Some Excursion to Deep Learning) and Interpretable and Explainable Machine Learning
+Introduction to Machine Learning, Learning Problem, Generative Modeling, Linear Regression and Probability Estimation, Optimization and Geometry, Support Vector Machine and Kernel Methods, Trees and Forest, Representation Learning (Some Excursion to Deep Learning) and Interpretable, Explainable Machine Learning, Supervised Learning, Semi-Supervised Learning (Weak Supervision, Distant Supervision), and Unsupervised Learning
 
 ### Books Referred for the Course
 * [Fundamentals in Machine Learning](https://cseweb.ucsd.edu/~dasgupta/courses.html)
