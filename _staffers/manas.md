@@ -6,4 +6,6 @@ website: https://cs.umbc.edu/manas
 photo: manas.jpg
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+Office Hours: Tuesdays and Wednesdays from 12 PM to 1 PM
+
+Virtual Office Hours: [https://umbc.webex.com/meet/manas](https://umbc.webex.com/meet/manas); Tuesdays and Wednesdays from 1PM to 2 PM

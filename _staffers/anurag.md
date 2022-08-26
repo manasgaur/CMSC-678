@@ -2,8 +2,6 @@
 name: Anurag Pawar
 role: Teahing Assistant
 email: anuragp1@umbc.edu
-website: https://kevinl.info
-photo: kevin.jpg
+website: N/A
+photo: anurag_pawar.png
 ---
-
-I like teaching Computer Science!

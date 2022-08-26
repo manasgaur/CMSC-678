@@ -12,7 +12,7 @@ seo:
 
 The course will provide extensive grounding in machine learning models and its utility to make predictions. The course will go over the mathematical foundations and real world applications of machine learning. The course will slowly move over the topics like prediction and classification problems, kernel methods, generative modeling, probability theory, optimization theory, representation learning, neural networks, and many more. In process, the course would teach some of the limitations of machine learning and how to augment them with better methods.
 
-Slides, materials, and project information for this iteration of machine learning course are borrowed from Andrew Ng, John Guttag, Sanjoy Dasgupta, Tom Mitchell, Maria-Florina Balcan, Hal Daume III, Trevor Hastie, and Robert Tsibrani. 
+Slides, materials, and project information for this iteration of machine learning course are borrowed from Andrew Ng, John Guttag, Sanjoy Dasgupta, Tom Mitchell, Frank Ferraro, Hal Daume III, Trevor Hastie, and Robert Tsibrani. 
 
 ## Why Visit this Website:
 
@@ -21,8 +21,7 @@ Slides, materials, and project information for this iteration of machine learnin
 * There might be one or two invited talks on Machine Learning from industry practitioners. Information will be provided on this webpage
 
 ## Discussion Forum
-This class will use the Piazza discussion forum :
- <center>**https://piazza.com/umbc/fall2022/cmsc678**</center>
+This class will use the Piazza discussion forum : [https://piazza.com/umbc/fall2022/cmsc678](https://piazza.com/umbc/fall2022/cmsc678)
 where general announcements and extracurricular questions and discussions can happen. For any sensitive
 issue, please email me: manas@umbc.edu
 

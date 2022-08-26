@@ -32,6 +32,8 @@ _Picture Credit Dr. Mostafa @ Caltech_
 
 ## Broad Topics: (To-Be-Mentioned)
 
+Machine Learning, Learning Problem, Generative Modeling, Linear Regression and Probability Estimation, Optimization and Geometry, Support Vector Machine and Kernel Methods, Trees and Forest, Representation Learning (Some Excursion to Deep Learning) and Interpretable and Explainable Machine Learning
+
 ### Books Referred for the Course
 * [Fundamentals in Machine Learning](https://cseweb.ucsd.edu/~dasgupta/courses.html)
 * [Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
@@ -77,6 +79,7 @@ To be decided
 * Although attendance won't be recorded, it is your responsibility to stay informed about every class.
 * The instructor will make an effort to provide announcements, slides, and notes online, but there are no guarantees.
 * Therefore, be sure to check in with someone who attended class if you are unable to. 
+* **Extension policy: One week extension**
 
 ## How to Submit work 
 
