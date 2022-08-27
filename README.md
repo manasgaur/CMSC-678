@@ -21,7 +21,7 @@ Slides, materials, and project information for this iteration of machine learnin
 * There might be one or two invited talks on Machine Learning from industry practitioners. Information will be provided on this webpage
 
 ## Discussion Forum
-This class will use the Piazza discussion forum : [https://piazza.com/umbc/fall2022/cmsc678](https://piazza.com/umbc/fall2022/cmsc678)
+This class will use the Blackboard discussion forum : [CMSC-678 Discussion](https://blackboard.umbc.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_69950_1&nav=discussion_board_entry&conf_id=_155102_1&forum_id=_274331_1)
 where general announcements and extracurricular questions and discussions can happen. For any sensitive
 issue, please email me: manas@umbc.edu
 
