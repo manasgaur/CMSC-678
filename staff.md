@@ -26,3 +26,8 @@ description: A listing of all the course staff members.
 {{ staffer }}
 {% endfor %}
 {% endif %} 
+
+{% for staffer in teaching_assistants %}
+{{ staffer }}
+{% endfor %}
+{% endif %}

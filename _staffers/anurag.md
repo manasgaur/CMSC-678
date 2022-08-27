@@ -1,6 +1,6 @@
 ---
 name: Anurag Pawar
-role: Teahing Assistant
+role: Teaching Assistant
 email: anuragp1@umbc.edu
 website: https://manasgaur.github.io/CMSC-678/about/
 photo: anurag_pawar.png
