@@ -35,7 +35,7 @@ _Picture Credit Dr. Mostafa @ Caltech_
 Introduction to Machine Learning, Learning Problem, Generative Modeling, Linear Regression and Probability Estimation, Optimization and Geometry, Support Vector Machine and Kernel Methods, Trees and Forest, Representation Learning (Some Excursion to Deep Learning) and Interpretable, Explainable Machine Learning, Supervised Learning, Semi-Supervised Learning (Weak Supervision, Distant Supervision), and Unsupervised Learning
 
 ### Books Referred for the Course
-* [Fundamentals in Machine Learning](https://cseweb.ucsd.edu/~dasgupta/courses.html)
+* [Foundations of Machine Learning](https://d1rkab7tlqy5f1.cloudfront.net/EWI/Over%20de%20faculteit/Afdelingen/Intelligent%20Systems/Pattern%20Recognition%20Laboratory/PR/Reading%20Group/Foundations_of_Machine_Learning.pdf)
 * [Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 * [Machine Learning Topics](https://home.work.caltech.edu/library/index.html)
