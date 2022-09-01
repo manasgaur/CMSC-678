@@ -17,4 +17,4 @@ date: 2022-09-01
 
 ## Coverage for First Class
 * An Abstract View to Machine Learning
-* The Learning Problem in Machine Learning
+<!--* The Learning Problem in Machine Learning-->

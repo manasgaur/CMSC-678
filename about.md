@@ -86,7 +86,6 @@ I suggest every student in the class to use LaTeX to typeset their final project
 * Although attendance won't be recorded, it is your responsibility to stay informed about every class.
 * The instructor will make an effort to provide announcements, slides, and notes online, but there are no guarantees.
 * Therefore, be sure to check in with someone who attended class if you are unable to. 
-* **Extension policy: One week extension**
 
 ## How to Submit work 
 
