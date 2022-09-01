@@ -32,7 +32,7 @@ _Picture Credit Dr. Mostafa @ Caltech_
 
 ## Broad Topics:
 
-Introduction to Machine Learning, Learning Problem, Generative Modeling, Linear Regression and Probability Estimation, Optimization and Geometry, Support Vector Machine and Kernel Methods, Trees and Forest, Representation Learning (Some Excursion to Deep Learning) and Interpretable, Explainable Machine Learning, Supervised Learning, Semi-Supervised Learning (Weak Supervision, Distant Supervision), and Unsupervised Learning
+Introduction to Machine Learning, Learning Problem, Generative Modeling, Linear Regression and Probability Estimation, Optimization and Geometry, Support Vector Machine and Kernel Methods, Trees and Forest, Probabilistic Graphical Models, Learning Theory, Representation Learning (Some Excursion to Deep Learning) and Interpretable, Explainable Machine Learning. 
 
 ### Books Referred for the Course
 * [Foundations of Machine Learning](https://d1rkab7tlqy5f1.cloudfront.net/EWI/Over%20de%20faculteit/Afdelingen/Intelligent%20Systems/Pattern%20Recognition%20Laboratory/PR/Reading%20Group/Foundations_of_Machine_Learning.pdf)
@@ -40,6 +40,7 @@ Introduction to Machine Learning, Learning Problem, Generative Modeling, Linear 
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 * [Machine Learning Topics](https://home.work.caltech.edu/library/index.html)
 * [Machine learning Yearning](https://nessie.ilab.sztaki.hu/~kornai/2020/AdvancedMachineLearning/Ng_MachineLearningYearning.pdf)
+* [A Course in Machine Learning](http://ciml.info/)
 
 ## Course Evaluation
 
@@ -89,8 +90,11 @@ I suggest every student in the class to use LaTeX to typeset their final project
 
 ## How to Submit work 
 
-We will use Blackboard Ultra for submission of Coding Assignments, Class Presentations, and Final Project
+NOTE: I am working on better and easy way of submission. 
 
+
+For now, we will use slack channel for submission of Assignments and Presentation. For Final Project, I will provide separate instructions. Please use this [SLACK-LINK](
+https://join.slack.com/t/umbc-cqp6019/shared_invite/zt-1fgqrcqo1-k1tWBLtbEIPHlZd1EJfQng) for signup. 
 
 ## Academic Honesty
 
