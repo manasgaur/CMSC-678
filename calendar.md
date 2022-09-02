@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Calendar
+title: Lectures and Assignments
 description: Listing of course modules and topics.
 ---
 
-# Calendar
+# Lectures and Assignments
 
 {% for module in site.modules %}
 {{ module }}
