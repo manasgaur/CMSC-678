@@ -8,6 +8,6 @@ Sep 01
 : Homework Reading Assignment 1
   : [Link to HRA 1](https://drive.google.com/file/d/1tvtsEGGdR6leQZ8zwM1qyrDIMf4JXvBB/view?usp=sharing)
 
-Sep 06
+Sep 08
 : Learning Problem
-  : [Link to Presentation](https://drive.google.com/file/d/1RrR9pp6DJw2SmmDdbXaeOLgG-oLlg2aR/view?usp=sharing)
+  : [Link to Presentation](https://drive.google.com/file/d/1DJyMEw_l00a5ugqNQWURjFfwl1gLTZ1z/view?usp=sharing)
