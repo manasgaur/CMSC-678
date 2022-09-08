@@ -25,6 +25,7 @@ This class will use the CMSC-678 Discussion forum in the following [SLACK-LINK](
 https://join.slack.com/t/umbc-cqp6019/shared_invite/zt-1fgqrcqo1-k1tWBLtbEIPHlZd1EJfQng). The forum will be a platform for questions from assignments, annoucements, and discussion on specific topics taughts in the class. For any sensitive issue, please email me: manas@umbc.edu .
 
 ## Useful Readings:
+* [A Course in Machine Learning](http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf)
 * [Master Algorithm](https://keybase.pub/ionlights/books/The%20Master%20Algorithm.pdf)
 * [Machine Learning](https://www.cin.ufpe.br/~cavmj/Machine%20-%20Learning%20-%20Tom%20Mitchell.pdf)
 * [Artificial Intelligence: A Guide for Thinking Humans](https://ebookspace.my.id/?book=0374257833)
