@@ -16,4 +16,5 @@ Sep 13
 : Linear Models in Machine Learning
   : [Link to Presentation](https://drive.google.com/file/d/1w3TZBX4Bn4Igakx560bdQkWts2znf_J1/view?usp=sharing)
 : Homework Theory+Coding Assignment 1
-  : [Link to HTCA 1](#)
+  : [Link to HTCA 1](https://drive.google.com/file/d/1hcmDsrABRj-Lghl4fIdL-taLV6Or59I_/view?usp=sharing)
+  : [Link to Perceptron Code](https://drive.google.com/file/d/1Zrg1iIXKC2p4ijDByN2tHwTZ0DFXVYDz/view?usp=sharing)
