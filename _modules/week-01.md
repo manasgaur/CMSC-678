@@ -14,4 +14,6 @@ Sep 08
 
 Sep 13
 : Linear Models in Machine Learning
-  : [Link to Presentation](https://drive.google.com/file/d/1XHwWrnU8-UojYn_UkcT-Y4rCq28cjBYS/view?usp=sharing)
+  : [Link to Presentation](https://drive.google.com/file/d/1w3TZBX4Bn4Igakx560bdQkWts2znf_J1/view?usp=sharing)
+: Homework Theory+Coding Assignment 1
+  : [Link to HTCA 1](#)
