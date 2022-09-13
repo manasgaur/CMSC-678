@@ -11,3 +11,7 @@ Sep 01
 Sep 08
 : Learning Problem
   : [Link to Presentation](https://drive.google.com/file/d/1XHwWrnU8-UojYn_UkcT-Y4rCq28cjBYS/view?usp=sharing)
+
+Sep 13
+: Linear Models in Machine Learning
+  : [Link to Presentation](https://drive.google.com/file/d/1XHwWrnU8-UojYn_UkcT-Y4rCq28cjBYS/view?usp=sharing)
