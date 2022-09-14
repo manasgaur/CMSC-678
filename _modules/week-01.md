@@ -18,3 +18,7 @@ Sep 13
 : Homework Theory+Coding Assignment 1
   : [Link to HTCA 1](https://drive.google.com/file/d/1hcmDsrABRj-Lghl4fIdL-taLV6Or59I_/view?usp=sharing)
   : [Link to Perceptron Code](https://drive.google.com/file/d/1Zrg1iIXKC2p4ijDByN2tHwTZ0DFXVYDz/view?usp=sharing)
+
+Sep 14
+: An Interesting Linear Model: Nearest Neighbors
+  : [Link to Presentation](https://drive.google.com/file/d/1gXWrBiTnCmegzjVU50MhEXXeFmzjA6E1/view?usp=sharing)
