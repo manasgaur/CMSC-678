@@ -71,8 +71,10 @@ Currently all of the regular season. __Project idea__:
     * __Project Ideas__: Model the task as a Sequential Labeling problem, where each email is a sequence of tokens, and each token can have either a label of "person-name" or "not-a-person-name".
     * [Sample Project Report](http://www.cs.cmu.edu/~einat/email.pdf)
 
+* [Machine Learning for Good](https://github.com/shreyashankar/datasets-for-good)
+
 ## Sample Project Reports 
-__These are not in correct template. Check course webpage for templates__
+__Reports 1 and 2 are not in the correct template. These reports are examples of how the project reports are to be created and what type of content is required in the project report.__
 * [Report 1](https://drive.google.com/file/d/1lZr6k85DtrTfQnDQG6dsO1-mSLcjTKqg/view?usp=sharing)
 * [Report 2](https://drive.google.com/file/d/1UHCeU0uZrqMnt00-RjLnDAxa_XydbxL_/view?usp=sharing)
 * [BEST Report 3](https://drive.google.com/file/d/1hEJHhuK4x7fKK-8VRGcFQXewjlcirYhM/view?usp=sharing)
