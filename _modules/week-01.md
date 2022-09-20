@@ -21,6 +21,11 @@ Sep 13
 
 Sep 14
 : An Interesting Linear Model: Nearest Neighbors
-  : [Link to Presentation](https://drive.google.com/file/d/1gXWrBiTnCmegzjVU50MhEXXeFmzjA6E1/view?usp=sharing)
+  : [Link to Presentation](https://drive.google.com/file/d/1Zn-MoJ_Ip3eIamCe-MYmQTo4IgJq07TG/view?usp=sharing)
   : [Lin. Regr. Code](https://drive.google.com/file/d/1oUZedRmmTdtLFc9PFY4Q5ldXXlk9wWjh/view?usp=sharing)
   : [HRA 2](https://drive.google.com/file/d/1jgGYGvBOr6q5KtGRB6aE8ljK8vY0JlZQ/view?usp=sharing)
+
+Sep 19
+: Probability Refresher
+  : [Link to Presentation](https://drive.google.com/file/d/1f8G3vIgVE6MW0z1zjmUFJsDWF1-oZPFl/view?usp=sharing)
+  : [Link to Nearest Neighbors Code](#)
