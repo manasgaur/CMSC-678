@@ -28,4 +28,9 @@ Sep 14
 Sep 19
 : Probability Refresher
   : [Link to Presentation](https://drive.google.com/file/d/1f8G3vIgVE6MW0z1zjmUFJsDWF1-oZPFl/view?usp=sharing)
-  : [Link to Nearest Neighbors Code](#)
+  : [Link to Nearest Neighbors Code](https://drive.google.com/file/d/1HkWzEQk6CYVi0u22BFVgn6OjMyoDZvmK/view?usp=sharing)
+
+Sep 22
+: Optimization and Regularization
+  : [Link to Presentation](https://drive.google.com/file/d/1nOATBDF7UGKjxjJOsyWEm8bw3ReAytNf/view?usp=sharing)
+  : [Link to HRA 3 - To-be-decided](#)

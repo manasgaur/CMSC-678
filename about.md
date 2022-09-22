@@ -41,6 +41,7 @@ Introduction to Machine Learning, Learning Problem, Generative Modeling, Linear 
 * [Machine Learning Topics](https://home.work.caltech.edu/library/index.html)
 * [Machine learning Yearning](https://nessie.ilab.sztaki.hu/~kornai/2020/AdvancedMachineLearning/Ng_MachineLearningYearning.pdf)
 * [A Course in Machine Learning](http://ciml.info/)
+* [Interpretable Machine Learning](https://originalstatic.aminer.cn/misc/pdf/Molnar-interpretable-machine-learning_compressed.pdf): An Optional Read
 
 ## Course Evaluation
 
