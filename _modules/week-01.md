@@ -33,4 +33,4 @@ Sep 19
 Sep 22
 : Optimization and Regularization
   : [Link to Presentation](https://drive.google.com/file/d/1nOATBDF7UGKjxjJOsyWEm8bw3ReAytNf/view?usp=sharing)
-  : [Link to HRA 3 - To-be-decided](#)
+  : [Link to HRA 3](https://drive.google.com/file/d/1rvfiVAjj6BANHyDwbm9R9xVWP1grjwox/view?usp=sharing)
