@@ -34,3 +34,11 @@ Sep 22
 : Optimization and Regularization
   : [Link to Presentation](https://drive.google.com/file/d/1nOATBDF7UGKjxjJOsyWEm8bw3ReAytNf/view?usp=sharing)
   : [Link to HRA 3](https://drive.google.com/file/d/1rvfiVAjj6BANHyDwbm9R9xVWP1grjwox/view?usp=sharing)
+
+Sep 27
+: Optimization and Regularization
+  : [Link to Presentation](https://drive.google.com/file/d/1TuggAjzar1QZMSo-S9tF0BOBMBmfOYGW/view?usp=sharing)
+
+Sep 29
+: ADAM and Convex Optimization
+  : [Link to Presentation](#)
