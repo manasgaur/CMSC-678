@@ -39,6 +39,10 @@ Sep 27
 : Optimization and Regularization
   : [Link to Presentation](https://drive.google.com/file/d/1TuggAjzar1QZMSo-S9tF0BOBMBmfOYGW/view?usp=sharing)
 
-Sep 29
+October 3
+: Homework Theory+Coding Assignment 2
+  : [Link to Assignment](https://drive.google.com/file/d/1ikmF8MthDoMMahNALFCeYnTknGOREq7e/view?usp=sharing)
+
+October 4
 : ADAM and Convex Optimization
   : [Link to Presentation](#)
