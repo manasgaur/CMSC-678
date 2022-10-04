@@ -14,9 +14,10 @@ Other Time Zones: 7:30 PM to 8:10 PM (IST) __and__ 3:00 PM to 3:40 PM (BST)
 __Physical Location:__ Room 233, Information Technology and Engineering (ITE) Building, University of Maryland Baltimore County Campus
 
 
-__Virtual location through WebEx:__ https://umbc.webex.com/meet/manas 
+__Virtual location through WebEx:__ [https://umbc.webex.com/meet/manas](https://umbc.webex.com/meet/manas) 
 
 ## Speaker: Divy Thakkar, Program Manager, Google Research India
+Contact: dthakkar@google.com
 
 ## Abstract of the Talk:
 The talk will discuss the role of human-centred research in the effective use and deployment of AI systems in highstakes domains such as public health. I will discuss the design and learnings from a real-world deployment of a large-scale AI system that aims to improve the efficacy of (maternal and neonatal) public health information delivery in marginalized communities in India. I will enrich the discussion through our qualitative work that discusses the role of AI as an actor that generates human-human collaboration. I will also discuss the tensions in the data supply chain that impact data quality and how we can build greater accountability in not just ML models but also datasets.
