@@ -44,5 +44,9 @@ October 3
   : [Link to Assignment](https://drive.google.com/file/d/1ikmF8MthDoMMahNALFCeYnTknGOREq7e/view?usp=sharing)
 
 October 4
-: ADAM and Convex Optimization
-  : [Link to Presentation](#)
+: Optimization and Regularization
+  : [Link to Presentation](https://drive.google.com/file/d/1TuggAjzar1QZMSo-S9tF0BOBMBmfOYGW/view?usp=sharing)
+
+October 6
+: Towards Neural Networks: From Softmax, Logistic Regression to Multilayer Perceptrons
+  : [Link to Presentation](https://drive.google.com/file/d/1f6hmGJwvZ-Bo3X7qWFL7MAYrLJkSVmpU/view?usp=sharing)
