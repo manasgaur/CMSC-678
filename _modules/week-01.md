@@ -50,3 +50,4 @@ October 4
 October 6
 : Towards Neural Networks: From Softmax, Logistic Regression to Multilayer Perceptrons
   : [Link to Presentation](https://drive.google.com/file/d/1f6hmGJwvZ-Bo3X7qWFL7MAYrLJkSVmpU/view?usp=sharing)
+  : [Gradient Checking](https://github.com/stephencwelch/Neural-Networks-Demystified/blob/master/Part%205%20Numerical%20Gradient%20Checking.ipynb)
