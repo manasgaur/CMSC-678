@@ -51,3 +51,17 @@ October 6
 : Towards Neural Networks: From Softmax, Logistic Regression to Multilayer Perceptrons
   : [Link to Presentation](https://drive.google.com/file/d/1f6hmGJwvZ-Bo3X7qWFL7MAYrLJkSVmpU/view?usp=sharing)
   : [Gradient Checking](https://github.com/stephencwelch/Neural-Networks-Demystified/blob/master/Part%205%20Numerical%20Gradient%20Checking.ipynb)
+
+October 11
+: Invited Talk from Divy Thakkar (Google Research)
+  : [Link to Talk](https://manasgaur.github.io/CMSC-678/GuestLectures/)
+: Multilayer Perceptrons
+  : [Link to Presentation](https://drive.google.com/file/d/1f6hmGJwvZ-Bo3X7qWFL7MAYrLJkSVmpU/view?usp=sharing)
+
+October 13
+: Project Proposal Presentations
+  :[Link to SpreadSheet](https://docs.google.com/spreadsheets/d/17Wv_hqMpghsEjdN6DaV2cs5DhWvQc7g0pIOTmz7Hcvk/edit?usp=sharing)
+
+October 14
+: Homework Reading Assignment
+  : [Link to Homework Reading Assignment](https://drive.google.com/file/d/1D27Im7r1qwiSA_S9zLsUeprELar9khas/view?usp=sharing)
