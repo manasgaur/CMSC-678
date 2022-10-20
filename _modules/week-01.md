@@ -65,3 +65,11 @@ October 13
 October 14
 : Homework Reading Assignment
   : [Link to Homework Reading Assignment](https://drive.google.com/file/d/1D27Im7r1qwiSA_S9zLsUeprELar9khas/view?usp=sharing)
+
+October 18
+: Multilayer Perceptrons
+  : [Link to Recording](https://drive.google.com/file/d/1-Y0xzPXF4jgocjN7CFC1f0Mu3k35pW35/view?usp=sharing)
+
+October 19
+: Backpropagation and Convolutional Neural Network
+  : [Link to Presentation](https://drive.google.com/file/d/1k5ztKfvGREBY8bWi1baXEBGAeS-zDbva/view?usp=sharing)
