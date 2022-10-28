@@ -70,6 +70,21 @@ October 18
 : Multilayer Perceptrons
   : [Link to Recording](https://drive.google.com/file/d/1-Y0xzPXF4jgocjN7CFC1f0Mu3k35pW35/view?usp=sharing)
 
-October 19
+October 20
 : Backpropagation and Convolutional Neural Network
   : [Link to Presentation](https://drive.google.com/file/d/1k5ztKfvGREBY8bWi1baXEBGAeS-zDbva/view?usp=sharing)
+  : [Link to Recording](https://drive.google.com/file/d/17QVcUhWSfwbOIvUzxdAcWV7AnCaSCdrQ/view?usp=sharing)
+
+October 25
+: Convolutional Neural Network
+  : [Link to Presentation](https://drive.google.com/file/d/1k5ztKfvGREBY8bWi1baXEBGAeS-zDbva/view?usp=sharing)
+
+October 27
+: Mid-term Prep Quiz
+  : [Quiz](#)
+  : [Quiz Solutions](#)
+  : [Link to Mid-Term Review and Readings](https://drive.google.com/file/d/1QSS844ghSn1NeVT7A7MwuMP2e57s3A9M/view?usp=sharing)
+
+October 28
+: MID-TERM EXAM
+  : [Link to Mid-term Exam](https://drive.google.com/file/d/1WtOt200rCZcyEGfpK12Dlf9ZKSLD2dtK/view?usp=sharing)
