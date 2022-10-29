@@ -72,12 +72,12 @@ October 18
 
 October 20
 : Backpropagation and Convolutional Neural Network
-  : [Link to Presentation](https://drive.google.com/file/d/1k5ztKfvGREBY8bWi1baXEBGAeS-zDbva/view?usp=sharing)
+  : [Link to Presentation](https://drive.google.com/file/d/1R_8iRPGF4Ry3nTBvZYBVdITcPG5nIq3Y/view?usp=sharing)
   : [Link to Recording](https://drive.google.com/file/d/17QVcUhWSfwbOIvUzxdAcWV7AnCaSCdrQ/view?usp=sharing)
 
 October 25
 : Convolutional Neural Network
-  : [Link to Presentation](https://drive.google.com/file/d/1k5ztKfvGREBY8bWi1baXEBGAeS-zDbva/view?usp=sharing)
+  : [Link to Presentation](https://drive.google.com/file/d/1R_8iRPGF4Ry3nTBvZYBVdITcPG5nIq3Y/view?usp=sharing)
 
 October 27
 : Mid-term Prep Quiz
