@@ -88,3 +88,7 @@ October 27
 October 28
 : MID-TERM EXAM
   : [Link to Mid-term Exam](https://drive.google.com/file/d/1WtOt200rCZcyEGfpK12Dlf9ZKSLD2dtK/view?usp=sharing)
+
+November 1
+: Recurrent Neural Networks and BPTT
+  : [Link to Presentation](https://drive.google.com/file/d/1B6ct8nW6BjdaIdUj0mt10joeZTbEA2ct/view?usp=share_link)
