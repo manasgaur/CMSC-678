@@ -92,3 +92,8 @@ October 28
 November 1
 : Recurrent Neural Networks and BPTT
   : [Link to Presentation](https://drive.google.com/file/d/1B6ct8nW6BjdaIdUj0mt10joeZTbEA2ct/view?usp=share_link)
+
+November 3
+: Autoencoders and T-SNE
+  : [Link to Presentation](https://drive.google.com/file/d/1KUGIG159p5njQ5DAMS5YOjN0qdm0PxVC/view?usp=sharing)
+  : [Link to T-SNE](https://docs.google.com/presentation/d/19WThIMrzeFchTC-ppDylm-POumha4LU-rrZUJ62Yc9U/edit?usp=sharing)
