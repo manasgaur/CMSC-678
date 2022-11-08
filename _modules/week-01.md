@@ -97,3 +97,16 @@ November 3
 : Autoencoders and T-SNE
   : [Link to Presentation](https://drive.google.com/file/d/1KUGIG159p5njQ5DAMS5YOjN0qdm0PxVC/view?usp=sharing)
   : [Link to T-SNE](https://docs.google.com/presentation/d/19WThIMrzeFchTC-ppDylm-POumha4LU-rrZUJ62Yc9U/edit?usp=sharing)
+
+November 8
+: Autoencoders and T-SNE
+  : [Link to Presentation](https://drive.google.com/file/d/1KUGIG159p5njQ5DAMS5YOjN0qdm0PxVC/view?usp=sharing)
+  : [Link to T-SNE](https://docs.google.com/presentation/d/19WThIMrzeFchTC-ppDylm-POumha4LU-rrZUJ62Yc9U/edit?usp=sharing)
+
+November 10
+: Support Vector Machines
+  : [Link to Presentation (To-be-Added)](#)
+
+November 15
+: Decision Trees, Bagging, and Boosting
+  : [Link to Presentation (To-be-Added)](#)
