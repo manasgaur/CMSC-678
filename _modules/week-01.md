@@ -103,10 +103,14 @@ November 8
   : [Link to Presentation](https://drive.google.com/file/d/1KUGIG159p5njQ5DAMS5YOjN0qdm0PxVC/view?usp=sharing)
   : [Link to T-SNE](https://docs.google.com/presentation/d/19WThIMrzeFchTC-ppDylm-POumha4LU-rrZUJ62Yc9U/edit?usp=sharing)
 
-November 10
+November 11
+: Homework Reading Assignment 5
+  : [Link to HRA 5](https://drive.google.com/file/d/1aoDx0y-ZMtLK-ESxVeE15lc9p72UTQsH/view?usp=sharing)
+
+November 15
 : Support Vector Machines
   : [Link to Presentation (To-be-Added)](#)
 
-November 15
+November 17
 : Decision Trees, Bagging, and Boosting
   : [Link to Presentation (To-be-Added)](#)
