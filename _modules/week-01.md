@@ -109,8 +109,15 @@ November 11
 
 November 15
 : Support Vector Machines
-  : [Link to Presentation (To-be-Added)](#)
+  : [Link to Presentation (To-be-Added)](https://drive.google.com/file/d/1-8UxuvfLQniSUcAWiNvwNMIiqJOTOlIs/view?usp=share_link)
 
-November 17
-: Decision Trees, Bagging, and Boosting
+November 22
+: Support Vector Machines
+  : [Link to Presentation (To-be-Added)](https://drive.google.com/file/d/1-8UxuvfLQniSUcAWiNvwNMIiqJOTOlIs/view?usp=share_link)
+
+November 24:
+: THANKSGIVING BREAK!!
+
+November 29
+: Towards Decision Trees, Bagging, and Boosting
   : [Link to Presentation (To-be-Added)](#)
