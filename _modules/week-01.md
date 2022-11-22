@@ -109,11 +109,11 @@ November 11
 
 November 15
 : Support Vector Machines
-  : [Link to Presentation (To-be-Added)](https://drive.google.com/file/d/1-8UxuvfLQniSUcAWiNvwNMIiqJOTOlIs/view?usp=share_link)
+  : [Link to Presentation](https://drive.google.com/file/d/1-8UxuvfLQniSUcAWiNvwNMIiqJOTOlIs/view?usp=share_link)
 
 November 22
 : Support Vector Machines
-  : [Link to Presentation (To-be-Added)](https://drive.google.com/file/d/1-8UxuvfLQniSUcAWiNvwNMIiqJOTOlIs/view?usp=share_link)
+  : [Link to Presentation](https://drive.google.com/file/d/1-8UxuvfLQniSUcAWiNvwNMIiqJOTOlIs/view?usp=share_link)
 
 November 24:
 : THANKSGIVING BREAK!!
