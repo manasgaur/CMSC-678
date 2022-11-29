@@ -119,5 +119,5 @@ November 24:
 : THANKSGIVING BREAK!!
 
 November 29
-: Towards Decision Trees, Bagging, and Boosting
-  : [Link to Presentation (To-be-Added)](#)
+: Dual form of Support Vector Machines
+  : [Link to Presentation](https://drive.google.com/file/d/1xWZeqOdXjTMXQp2eIkJ8f2pDRM6uYqtC/view?usp=share_link)
