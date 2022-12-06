@@ -32,8 +32,9 @@ Please choose one of the following templates to submit the final project report:
     * _Expectation from the Project Proposal:_ Each team should update [EXCEL SPREADSHEET](https://docs.google.com/spreadsheets/d/17Wv_hqMpghsEjdN6DaV2cs5DhWvQc7g0pIOTmz7Hcvk/edit#gid=0) with their project title and prepare a __10 minutes__ presentation. The presentation should clearly bring across three main points: (1) Motivation (Real-world examples of the project that would show the importance of project), (2) Problem Statement, (3) Why Machine Learning is appropriate?, (4) Potential Datasets, and (5) Problem Modeling (similar to Question 1 in HTCA-1).  
 * Project Update (A Class Presentation): __November 17, 2022__ (Thursday)
 * Project Report Review : __After Thanksgiving Break__ Tuesdays and Thursdays (Office Hours)
-* Project Report Submission : __December 15, 2022__ (Thursday)
-* Project Presentation : __December 15 and December 20, 2022__ (Thursday and Tuesday)
+* Project Report Submission : __December 15, 2022__ (Thursday) **Firm Deadline**
+    * _The team who hasn't submitted the report would not present on Tuesday._ 
+* Project Presentation : __December 20, 2022__ (Tuesday) **(10:30 AM to 12:30 PM)** (All Groups)
 
 ## Broad Topics:
 
