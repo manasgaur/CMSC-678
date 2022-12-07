@@ -115,9 +115,10 @@ November 22
 : Support Vector Machines
   : [Link to Presentation](https://drive.google.com/file/d/1-8UxuvfLQniSUcAWiNvwNMIiqJOTOlIs/view?usp=share_link)
 
-November 24:
-: THANKSGIVING BREAK!!
-
 November 29
 : Dual form of Support Vector Machines
   : [Link to Presentation](https://drive.google.com/file/d/1xWZeqOdXjTMXQp2eIkJ8f2pDRM6uYqtC/view?usp=share_link)
+
+December 06
+: Decision Trees
+  : [Link to Presentation](https://drive.google.com/file/d/1YoN4lOHEiv2tmb61FCUoKt7rZrSrQYob/view?usp=share_link)
