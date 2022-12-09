@@ -35,6 +35,7 @@ Please choose one of the following templates to submit the final project report:
 * Project Report Submission : __December 15, 2022__ (Thursday) **Firm Deadline**
     * _The team who hasn't submitted the report would not present on Tuesday._ 
 * Project Presentation : __December 20, 2022__ (Tuesday) **(10:30 AM to 12:30 PM)** (All Groups)
+* [Template for Final Project Presentation](https://docs.google.com/presentation/d/1x_3vygPPI1bFjibUuLZuSzeXJkgo2gu2SJFEQV4CtM0/edit?usp=sharing)
 
 ## Broad Topics:
 
