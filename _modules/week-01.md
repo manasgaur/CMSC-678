@@ -122,3 +122,7 @@ November 29
 December 06
 : Decision Trees
   : [Link to Presentation](https://drive.google.com/file/d/1YoN4lOHEiv2tmb61FCUoKt7rZrSrQYob/view?usp=share_link)
+
+December 13
+: Interpretable Machine Learning By [Kaushik Roy](https://scholar.google.com/citations?user=LpOo_IUAAAAJ&hl=en) ([AI Institute](https://aiisc.ai/), South Carolina)
+  : [Link to Presentation](https://docs.google.com/presentation/d/1LMJrO5dOvn5VLVeog-5-ybQKa1O2PrVs4vEVx2fMWwk/edit?usp=sharing)
