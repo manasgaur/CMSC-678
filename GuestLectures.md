@@ -24,3 +24,24 @@ The talk will discuss the role of human-centred research in the effective use an
 
 ## Bio:
 [Divy](https://sites.google.com/view/divythakkar/home) a Program Manager lead at Google Research where I drive Strategy and Operations for several critical functions such as academic collaborations, research investments, AI for Social Good etc. I am one of the founding members of Google Research India. My research in HCI is centered examining Human-AI interactions in low-resource and/or high--stakes environments. My research has been published at top-tier HCI venues such as CHI.
+
+
+
+![ML Jungle](/assets/images/kroy.jpg)
+
+## Time: 10:00 AM to 11:00 AM (Eastern Time) 
+
+## Place: 
+__Physical Location:__ Room 233, Information Technology and Engineering (ITE) Building, University of Maryland Baltimore County Campus
+
+
+__Virtual location through WebEx:__ [https://umbc.webex.com/meet/manas](https://umbc.webex.com/meet/manas) 
+
+## Speaker: Kaushik Roy, Researcher, AI Institute, University of South Carolina
+Contact: kaushikr@email.sc.edu
+
+## Title of the Talk: Interpretable Machine Learning
+
+
+## Bio:
+[Kaushik](https://scholar.google.com/citations?user=LpOo_IUAAAAJ&hl=en) a Ph.D. student at the Artificial Intelligence Institute South Carolina (AIISC). He completed his master's in computer science at Indiana University Bloomington and have worked at UT Dallas’s Starling lab. His research interests include statistical relational artificial intelligence, sequential decision making, knowledge graphs, and reinforcement learning. His work is published in reputed conferences in IEEE, KR, AAAI, AAMAS, and ECML. He is the creator Knowledge-infused Reinforcement Learning and Knowledge-infused Policy Gradient algorithms that allow healthcare chatbotto make sequential decisions on patient-chatbot interactions using patient data and external knowledge. 

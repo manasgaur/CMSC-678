@@ -46,10 +46,13 @@ Introduction to Machine Learning, Learning Problem, Generative Modeling, Linear 
 ## Course Evaluation
 
 The course consists of four gradable components:
-* Presentation Sessions (__in groups__) (**10%**) : In each of these session, a group will prepare a presentation on a research topic of their choice or provided by me and will have 30 mins to present in the class. The research papers should be from top-tier conferences provided [HERE](https://research.com/conference-rankings/computer-science).
-* Coding Assignments (__every week__) (**20%**) : At the end of a week, there will be a coding assignment provided at the end of the class which each student has to complete and return in 10 days time. The coding assignments will be completely based on the ongoing topic or on a topic previously completed.
-* Mid-term (**30%**) : After 4 weeks of the course, there will be a mid-term which will include theory, case-based scenarios, and pseudocodes.
-* Final Project (__in groups__) (**40%**) : By the end of the first two weeks of the class, I would require, a tentative project title and the name of the members of a team, for the final project. Amidst the class, I would schedule one-on-one session and class presentation to keep the project on track. 
+* Presentation Sessions (__in groups__) (**30%**) : The presentation sessions will be distributed into three parts: (a) Final Project Proposal Presentation, (b) Project Update Presentation 1, and (c) Final Project Presentation. 
+* Reading Assignments (__every week__) (**5%**) : The reading assignments will comprise of research papers in machine learning, with an intention to introduce to you advances in the machine learning application, new algorithms, and explainable machine learning. 
+* Coding Assignments (__Bi Weekly__) (**10%**) : there will be a coding assignment provided at the end of the class which each student has to complete and return in 10 days time. The coding assignments will be completely based on the ongoing topic or on a topic previously completed.
+* Mid-term (**15%**) : After 4 weeks of the course, there will be a mid-term which will include theory, case-based scenarios, and pseudocodes.
+* Quizzes (**20%**) : There will be two quizzes during the course. One will take place before the mid-term and one at the end of the course, before final project presentations. 
+* Final Project (__in groups__) (**20%**) : The Final Project will be assessed based on Final Project Report (**15%**) and Final Project Code (**5%**). It is important to submit a high quality version of the report for good grades. It is also important to run by with me the project report for its consistency, grammaticality, and flow of the write-up.
+By the end of the first two weeks of the class, I would require, a tentative project title and the name of the members of a team, for the final project. Amidst the class, I would schedule one-on-one session and class presentation to keep the project on track. 
     * Please fill out this [google spreadsheet](https://docs.google.com/spreadsheets/d/17Wv_hqMpghsEjdN6DaV2cs5DhWvQc7g0pIOTmz7Hcvk/edit?usp=sharing) with details on the final project
 
 ## Bonus Grades
