@@ -99,17 +99,13 @@ NOTE: I am working on better and easy way of submission.
 For now, we will use slack channel for submission of Assignments and Presentation. For Final Project, I will provide separate instructions. Please use this [SLACK-LINK](
 https://join.slack.com/t/umbc-cqp6019/shared_invite/zt-1fgqrcqo1-k1tWBLtbEIPHlZd1EJfQng) for signup. 
 
-## Academic Honesty
+## Academic Integrity
 
-I take academic honesty seriously. Any sort of activity which relate the cheating, plagiarism, fabrication (e.g. use Adobe tools), or copy-paste will be not be tolerated. If caught for the first time would lead to an **F** grade on the assignment. If the same activity is performed next, would result in an **F** grade in the course and a disciplinary action will be taken which may lead to suspension or dismissal. 
+I take academic dishonesty seriously. Any sort of activity which relate the cheating, plagiarism, fabrication (e.g. use Adobe tools), or copy-paste will be not be tolerated. If caught for the first time would lead to a **50%** reduction in the grade on the assignment. If the same activity is performed next, would result in an **F** grade in the course and a disciplinary action will be taken which may lead to suspension or dismissal. 
 
-Please do visit the academic honesty policy available in the [Academic Integrity at UMBC](https://academicconduct.umbc.edu/). 
+Please do visit the academic dishonesty policy available in the [Academic Integrity at UMBC](https://academicconduct.umbc.edu/). 
 
-Especially for computer science classes, there are generally questions about what is and is not allowed.
-You are encouraged to discuss the subject matter and assignments with others. The Piazza discussion board
-provides a great forum for this. However, you may not write or complete assignments for another student;
-allow another student to write or complete your assignments; pair program; copy someone else’s work; or
-allow your work to be copied. This list is not inclusive.
+Especially for computer science classes, there are generally questions about what is and is not allowed. However, you may not write or complete assignments for another student; allow another student to write or complete your assignments; pair program; copy someone else’s work; or allow your work to be copied. This list is not inclusive.
 
 ## Students with Accomodations
 The office of [Student Disability Services](https://sds.umbc.edu) (SDS) works to ensure that students can access and take advantage of UMBC’s educational environment, regardless of disability. From the SDS,
